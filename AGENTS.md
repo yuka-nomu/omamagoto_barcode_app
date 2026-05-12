@@ -1,0 +1,1 @@
+Read documents first: - docs/requirements_v3.md - docs/screen_design_v2.md - docs/functional_spec_v1.md Allowed files: - AGENTS.md Forbidden: - lib/** - pubspec.yaml Requirements: - Flutter開発用AGENTS.mdを作成 - Riverpod前提 - Material3 - MVP優先 - シンプル構成 - 過度な抽象化禁止 - 可読性重視 - ディレクトリ構成定義を含める Completion Conditions: - AGENTS.mdのみ作成 - Markdown形式
