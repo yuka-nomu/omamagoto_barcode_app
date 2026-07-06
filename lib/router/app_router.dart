@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:omamagoto_barcode_app/screens/barcode_print_screen.dart';
 import 'package:omamagoto_barcode_app/screens/checkout_screen.dart';
